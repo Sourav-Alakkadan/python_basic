@@ -1,0 +1,5 @@
+f=open('write_data','w')
+f.write('Luminar\n')
+f.write('Data science\n')
+f.write('Big data\n')
+f.write('python')
